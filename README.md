@@ -3,6 +3,8 @@
 Repositorio compartido por el equipo (2 personas). Contiene **los mismos agentes y el mismo contexto** para todos.
 El estado del trabajo vive en monday (workspace North Frame). Los videos viven en una carpeta compartida, no en git.
 
+¿Nunca has usado esto? Empieza por [docs/GUIA-INICIO.md](docs/GUIA-INICIO.md).
+
 ## Instalación (cada persona, una vez)
 1. Requisitos: Claude Code, Node 20+, git, ffmpeg.
 2. Clonar: `git clone https://github.com/JCarrazco95/north-frame-agents.git && cd north-frame-agents`
@@ -21,6 +23,9 @@ El estado del trabajo vive en monday (workspace North Frame). Los videos viven e
 | `/producir <item>` | Avanzar una pieza hasta la siguiente compuerta |
 | `/revisar <item> <1\|2\|3>` | Correr una compuerta Opus |
 | `/cerrar-sesion` | Al terminar: monday + bitácora + git push |
+| `/explicame <tema>` | Explicación simple de cualquier término o paso |
+| `/practica [1-5]` | Ejercicios guiados con los videos base, sin gastar créditos |
+| `/output-style` → Aprendiz North Frame | Modo aprendizaje: Claude explica cada paso y te deja decidir |
 
 ## Cómo no pisarse
 - Candado: columna **Tomado por** en Producción. Nadie toca una pieza tomada por otro.
