@@ -1,0 +1,11 @@
+{
+  "archivo": "media/biblioteca-base/Heli.mp4",
+  "duracion_s": 15.396009,
+  "ancho": 480,
+  "alto": 854,
+  "fps": "24/1",
+  "cortes_s": [2.54167,5.5],
+  "loudness_lufs": -14.2,
+  "pico_dbtp": -5.1,
+  "hoja_frames": "docs/contexto/biblioteca-base/Heli_frames.jpg"
+}

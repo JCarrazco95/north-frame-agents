@@ -1,0 +1,11 @@
+{
+  "archivo": "media/biblioteca-base/NBA-final.mp4",
+  "duracion_s": 18.041667,
+  "ancho": 480,
+  "alto": 854,
+  "fps": "24/1",
+  "cortes_s": [],
+  "loudness_lufs": -14.4,
+  "pico_dbtp": -1.8,
+  "hoja_frames": "docs/contexto/biblioteca-base/NBA-final_frames.jpg"
+}

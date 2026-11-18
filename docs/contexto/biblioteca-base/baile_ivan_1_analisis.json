@@ -1,0 +1,11 @@
+{
+  "archivo": "media/biblioteca-base/baile_ivan_1.mp4",
+  "duracion_s": 21.041667,
+  "ancho": 480,
+  "alto": 854,
+  "fps": "24/1",
+  "cortes_s": [],
+  "loudness_lufs": -14.3,
+  "pico_dbtp": -0.3,
+  "hoja_frames": "docs/contexto/biblioteca-base/baile_ivan_1_frames.jpg"
+}

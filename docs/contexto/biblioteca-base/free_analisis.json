@@ -1,0 +1,11 @@
+{
+  "archivo": "media/biblioteca-base/free.mp4",
+  "duracion_s": 14.709000,
+  "ancho": 480,
+  "alto": 854,
+  "fps": "24/1",
+  "cortes_s": [],
+  "loudness_lufs": -14.1,
+  "pico_dbtp": -1.2,
+  "hoja_frames": "docs/contexto/biblioteca-base/free_frames.jpg"
+}

@@ -1,0 +1,20 @@
+# Media pesada: se comparte por la carpeta compartida, no por git
+media/
+*.mp4
+*.mov
+*.webm
+*.wav
+*.mp3
+*.png
+*.jpg
+*.jpeg
+!docs/**/*.jpg
+
+# Remotion
+remotion/node_modules/
+remotion/out/
+
+# Secretos y local
+.env
+.claude/settings.local.json
+.DS_Store

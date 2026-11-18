@@ -1,0 +1,23 @@
+{
+  "model": "opus",
+  "enableAllProjectMcpServers": true,
+  "permissions": {
+    "allow": [
+      "Bash(bash scripts/*)",
+      "Bash(ffmpeg:*)",
+      "Bash(ffprobe:*)",
+      "Bash(git pull:*)",
+      "Bash(git status:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git config user.email)",
+      "Bash(npx remotion:*)",
+      "Bash(curl -s http://127.0.0.1:8188/*)"
+    ],
+    "deny": [
+      "Read(./.env)",
+      "Bash(rm -rf:*)"
+    ]
+  }
+}
